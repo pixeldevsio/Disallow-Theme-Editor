@@ -1,0 +1,2 @@
+WordPress Plugin that disallows Theme Editor and direct file manipulation if the theme is not a child theme. 
+Use at your own risk. Add to mu-plugins folder. For Knowledgeable devs only
